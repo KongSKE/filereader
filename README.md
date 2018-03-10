@@ -3,7 +3,7 @@ by Varit Assavavisidchai
 I ran the tasks on a Vostro 14-5459 with 2.30Ghz 2.40 GHz i5-6200U,
 and got these results:
 
-|Task | Time |
+|Task                    | Time |
 |----------------------------------------------|------|
 |Read file 1-char at a time to String          | 1.260782 sec |
 |Read file 1-char at a time to StringBuilder   | 0.009644 sec |
